@@ -1,4 +1,4 @@
-# Project 1: SAT & ACT Analysis
+# SAT & ACT Analysis
 
 ## Problem Statement
 How can we increase SAT participation rates in states with high score like North Dakota?  Should the tests be mandatory if 100% partipation states have lower averages?  If yes, should they be nationally standardized?  Are they even helpful anymore since many colleges are dropping their requirement? 
